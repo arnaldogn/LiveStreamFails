@@ -1,0 +1,49 @@
+# CocoaPods #
+#############
+Pods/
+
+# Packages #
+############
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+
+# Xcode
+Build/
+.idea/
+project.xcworkspace/
+xcuserdata/
+profile
+DerivedData
+*/build/*
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.moved-aside
+*.hmap
+*.xcuserstate
+!default.pbxuser
+!default.mode1v3
+!default.mode2v3
+!default.perspectivev3
+Build-script/builds/*

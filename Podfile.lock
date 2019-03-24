@@ -1,0 +1,28 @@
+PODS:
+  - Kingfisher (5.1.1)
+  - MMPlayerView (4.1.7)
+  - SVProgressHUD (2.2.5)
+  - Swinject (2.5.0)
+
+DEPENDENCIES:
+  - Kingfisher
+  - MMPlayerView
+  - SVProgressHUD
+  - Swinject
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Kingfisher
+    - MMPlayerView
+    - SVProgressHUD
+    - Swinject
+
+SPEC CHECKSUMS:
+  Kingfisher: 2558186963e5be42d98c5b110ccb3130148b77e4
+  MMPlayerView: 07fdf42b230349a32edac680c1441d5d78e9b485
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  Swinject: 82cdb851f63f91bba974e3eca1d69780f2f7677e
+
+PODFILE CHECKSUM: d26fd29521a9c1f48948c0fff66008f802a74d85
+
+COCOAPODS: 1.5.3
